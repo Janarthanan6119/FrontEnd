@@ -1,0 +1,81 @@
+.middle
+{
+    color:white;
+    background:rgb(172, 22, 22);
+    padding: 20%;
+}
+#title
+{
+    text-align: center;
+    color: white;
+    background: black;
+}
+#firstimg
+{
+    width: 400px;
+    margin-left: -300px;
+}
+#secondimg
+{
+    width: 400px;
+    height:225px;
+}
+#thirdimg
+{
+    width: 400px;
+    height:220px;
+}
+#fourimg
+{
+    width: 400px;
+    height:220px;
+    margin-left: -300px;
+}
+#fiveimg
+{
+    width: 400px;
+    height:220px;
+    margin-left: 0px;
+}
+#siximg
+{
+    width: 400px;
+    height:220px;
+}
+#sevenimg{
+    margin-left: -300px;
+    width: 400px;
+    height:220px;
+}
+#eightimg{
+    width: 380px;
+    height:220px;
+}
+#nineimg{
+    width: 350px;
+    height:220px;
+}
+#head
+{
+    margin-left: -300px;
+    margin-top: -300px;
+}
+#twohead
+{
+    margin-left: -300px;
+}
+#thirdhead
+{
+    margin-left: -300px;
+}
+.login{
+    text-align: center;
+    background: blue;
+    height: 100%;
+    width: 100%;
+}
+.signdiv
+{
+    text-align: center;
+    background: lightblue;
+}
